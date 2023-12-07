@@ -9,6 +9,8 @@ The frontend notebook can be found [here](https://observablehq.com/d/07b13a2cfcd
 ## Instructions to run the demo:
 
 ## 1. Load the data into google drive:
+You will have to load the file `GSE155850_RAW` to your google drive. This has all of the demo files. 
+Make sure the structure looks like this or you will have to change the file path: `/content/drive/MyDrive/GSE155850_RAW/full_hs_healthy_with_tsne.csv`
 
 ## 2. Start the backend:
 * Give google collab notebook permission to access googel drive.
