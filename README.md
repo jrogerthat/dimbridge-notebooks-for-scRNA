@@ -1,6 +1,6 @@
 # dimbridge-notebooks-for-scRNA
 
-This is a demo for Dimbridge design concept applied to scRNA analysis. This repository has the code for the backend notebook, the links to both notebooks, and instructions for running the demo from the two notebooks.
+This is a demo for the Dimbridge design concept applied to scRNA analysis. This repository has the code for the backend notebook, the links to both notebooks, and instructions for running the demo from the two notebooks.
 Dimbridge design concept and it's application is a project from Vanderbilt, Tufts, Merck, and ID4.
 
 The backend notebook can be found [here](https://tinyurl.com/dimbridgebackend).
@@ -19,5 +19,4 @@ The frontend notebook can be found [here](https://observablehq.com/d/07b13a2cfcd
 ## 3. Start the frontend demo:
 * Copy the new url from the running server.
 * Refresh the cell, the data should load.
-
-
+* Happy demoing!
